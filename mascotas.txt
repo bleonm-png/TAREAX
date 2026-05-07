@@ -1,0 +1,60 @@
+Nombre: Max
+Especie: Perro
+Raza: Labrador
+Edad: 5
+Peso: 30 kg
+--------------------------
+Nombre: Luna
+Especie: Gato
+Raza: Siames
+Edad: 3
+Peso: 4 kg
+--------------------------
+Nombre: Rocky
+Especie: Perro
+Raza: Pastor Aleman 
+Edad: 4
+Peso: 35 kg
+--------------------------
+Nombre: Mia
+Especie: Gato
+Raza: Persa
+Edad: 2
+Peso: 5 kg
+--------------------------
+Nombre: Toby
+Especie: Perro
+Raza: Chihuahua
+Edad: 6
+Peso: 3 kg
+--------------------------
+Nombre: Nala
+Especie: Gato
+Raza: Bengali
+Edad: 1
+Peso: 4.5 kg
+--------------------------
+Nombre: Bruna
+Especie: Perro
+Raza: Bulldog 
+Edad: 3
+Peso: 12 kg
+--------------------------
+Nombre: Kitty
+Especie: Gato
+Raza: Maine Coon
+Edad: 5
+Peso: 7 kg
+--------------------------
+Nombre: Rex
+Especie: Perro
+Raza: Husky
+Edad: 2
+Peso: 25 kg
+--------------------------
+Nombre: Coco
+Especie: Gato
+Raza: Angora
+Edad: 4
+Peso: 4 kg
+--------------------------
